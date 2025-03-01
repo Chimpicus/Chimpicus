@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-In 2019 I was encouraged by a close friend to try out programming, this advice lead me to be here today, 3 years deep into a career In software development and I couldn't be mor proud of the progress I'e made. 
+I'm Case, a self-taught frontend developer, specialising in React, Next.js and Typescript. I secured my first full-time job in 2022, after working unpaid for 6 months to build up some experience. In my current role, I have debugged and fixed a very broken application, rebranded and replaced the Auth solution for the flagship web application and built a greenfields frontend project front the ground up whilst learning and updating my knowledge of Next.js. 
 
-🔭 I'm currently working on a file encryption web tool built with Vite, React.js and utilising the Web Crypto API. This i just a proof of concept / portfolio piece. 
+🔭 I'm currently working on a file encryption web tool built with Vite, React.js and utilising the Web Crypto API. This is a hobby project / portfolio piece where I can explore the Web Crypto API, showcase my skills and have some creative freedom.
 
 🌱 I’m currently learning Vue.js and then Nuxt.js to broaden my frontend scope with the goal of oppening more doors.
 
+📬 How to reach me:
+    - LinkedIn: 
 
 <hr>
 
