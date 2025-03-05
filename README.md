@@ -7,7 +7,8 @@ I'm Case, a self-taught frontend developer, specialising in React, Next.js and T
 🌱 I’m currently learning Vue.js and then Nuxt.js to broaden my frontend scope with the goal of oppening more doors.
 
 📬 How to reach me:
-    - LinkedIn: 
+
+- LinkedIn: https://www.linkedin.com/in/casey-boyes/
 
 <hr>
 
